@@ -4,8 +4,8 @@ import (
 	"context"
 	"log"
 	"net"
+    proto "github.com/Skykens/roboon/api/proto/pb/go"
 
-	pb "github.com/Skykens/api/protos/pb/go"
 	"google.golang.org/grpc"
 )
 
