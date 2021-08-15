@@ -4,6 +4,7 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/Skykens/roboon v0.0.0-20210815073448-f240680bd1a9 h1:Or2EUfqr00FWC+dsgqs69cukk118Hg799a3AjRXR2rY=
 github.com/Skykens/roboon v0.0.0-20210815075300-2d9df9dac7fd h1:7GlY8ZKnb81mH2dIPBUD/GHMbkn4/EoIYeNsX7XgcQM=
+github.com/Skykens/roboon v0.0.0-20210815082731-a3366517cfd1 h1:3obrMl4edcYJrotIL2Y6iwfJdVApHtMh42Fh+FqjSxQ=
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/cespare/xxhash v1.1.0/go.mod h1:XrSqR1VqqWfGrhpAt58auRo0WTKS1nRRg3ghfAqPWnc=

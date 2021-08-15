@@ -1,4 +1,4 @@
-module github/Skykens/roboon
+module github.com/Skykens/roboon
 
 go 1.15
 
